@@ -1,0 +1,20 @@
+#plugin information
+id: QueryUtil
+name: QueryUtil
+version: 0.1.0
+
+#about this plugin
+description: <__trans phrase="Utilities for query string.">
+author_name: <__trans phrase="toi-planning">
+author_link: http://tec.toi-planning.net/
+plugin_link: http://tec.toi-planning.net/mt/queryutil/
+doc_link: http://tec.toi-planning.net/mt/queryutil/manual
+
+#Localization
+l10n_class: QueryUtil::L10N
+
+tags:
+    function:
+        QueryUtilReplace: $QueryUtil::QueryUtil::_hdlr_replace
+    block:
+        QueryUtilIf?: $QueryUtil::QueryUtil::_hdlr_if
