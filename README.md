@@ -18,7 +18,7 @@ Utility tags to treat query string.
 	
 ## LICENSE
 
-Copyright (c) 2011 Taku AMANO
+Copyright (c) 2011 ToI Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
